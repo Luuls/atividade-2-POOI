@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1040
+
 n1, n2, n3, n4 = map(int, input().split())
 
 average = (2 * n1 + 3 * n2 + 4 * n3 + n4) / (2 + 3 + 4 + 1)

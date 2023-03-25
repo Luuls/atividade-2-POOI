@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1038
+
 code, amount = map(int, input().split())
 
 if code == 1:

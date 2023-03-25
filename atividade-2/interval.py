@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1037
+
 number = float(input())
 
 if 0 <= number <= 25:
